@@ -1,5 +1,6 @@
 local gui ={}
-function gui.read()
+function gui.init()
+    
 end
 
 return gui
